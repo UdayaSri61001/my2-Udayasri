@@ -19,4 +19,10 @@ Describing four different games that i am interested in.
 
 -----------------------------------------------
 
-  
+### Pithy Quotes
+
+>The important thing is not to stop questioning - "Albert Einstein"
+>
+>The best way to predict the future is to create it - "Peter Drucker"
+
+ 
