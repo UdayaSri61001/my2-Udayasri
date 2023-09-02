@@ -4,3 +4,19 @@ I am Udaya Sri Naidu , I am from India . I completed my Under Graduation in 2022
 
 ![Udaya](https://github.com/UdayaSri61001/my2-Udayasri/assets/143127448/1ae49417-81ac-4675-b5c1-fdde491069d9)
 
+----------------------------------------------
+
+### sports Table
+
+Describing four different games that i am interested in.
+
+| Game Name       | Reason                       |  Hours/week     |
+| --------------- |  --------------------------- |    ------------ |
+| Chess           | Improves creativity          |   9             |
+| Hockey          | Goal setting and commitment  |   8             |
+| Swimming        | Improving flexibility        |   4             |
+| Volley ball     | leadership, teamwork,respect |   7             |
+
+-----------------------------------------------
+
+  
