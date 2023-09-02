@@ -11,4 +11,10 @@ It is famous *forweatherconditions*.
 2. Night Rides
 3. Water falls
 4. Briyani zone
+- Panipuri
+- Ice cream
+- pizza
+- sweets
+- Bisibelli baath
+
 
