@@ -25,4 +25,29 @@ Describing four different games that i am interested in.
 >
 >The best way to predict the future is to create it - "Peter Drucker"
 
- 
+------------------------------------------------
+
+ ### Code Fencing
+> How to check if a string starts with a specified string?
+
+URL - <https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string>
+
+ ```
+ <?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
+```
+CSS tricks - <https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string>
+
+
+
+
